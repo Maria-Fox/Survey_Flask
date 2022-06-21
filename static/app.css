@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(50, 120, 0, 0.5);
+}
+
+button {
+  border-radius: 5px;
+  text-align: center;
+  margin: 5px;
+}
+
+div {
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#answer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid black;
+  padding: 20px;
+}
